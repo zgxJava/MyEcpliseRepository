@@ -1,0 +1,2 @@
+# MyEcpliseRepository
+创建一个Ecplise中使用的远程GIT仓库
